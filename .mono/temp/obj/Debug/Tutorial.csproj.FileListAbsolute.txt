@@ -1,0 +1,8 @@
+/Users/luke/Tutorial/.mono/temp/bin/Debug/Tutorial.dll
+/Users/luke/Tutorial/.mono/temp/bin/Debug/Tutorial.pdb
+/Users/luke/Tutorial/.mono/temp/obj/Debug/Tutorial.csprojAssemblyReference.cache
+/Users/luke/Tutorial/.mono/temp/obj/Debug/Tutorial.AssemblyInfoInputs.cache
+/Users/luke/Tutorial/.mono/temp/obj/Debug/Tutorial.AssemblyInfo.cs
+/Users/luke/Tutorial/.mono/temp/obj/Debug/Tutorial.csproj.CoreCompileInputs.cache
+/Users/luke/Tutorial/.mono/temp/obj/Debug/Tutorial.dll
+/Users/luke/Tutorial/.mono/temp/obj/Debug/Tutorial.pdb
